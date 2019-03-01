@@ -10,8 +10,8 @@ function Driver (name, age, experience){
   this.experience = experience
 }
 
-function PickupLocation (poshHotel, adress, city) {
-this.poshHotel = poshHotel
+function PickupLocation ( adress, city) {
+
   this.adress = adress
   this.city = city
 }
